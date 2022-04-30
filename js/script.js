@@ -1,4 +1,4 @@
-import { data } from "js/hp.js";
+import { data } from "./hp.js";
 
 let filterHouse = []
 let house = ""
